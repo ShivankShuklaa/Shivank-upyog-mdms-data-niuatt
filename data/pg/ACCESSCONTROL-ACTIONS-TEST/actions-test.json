@@ -19575,6 +19575,17 @@
       "serviceCode": "MDMS",
       "code": "null",
       "path": ""
+    },
+    {
+      "id": 2916,
+      "name": "Create Demand for street vending application",
+      "url": "/sv-services/street-vending/_createdemand",
+      "displayName": "Create demand for street vending Application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "sv-services",
+      "code": "null",
+      "path": ""
     }	  
   ]
 }	  
